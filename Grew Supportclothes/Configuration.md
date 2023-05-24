@@ -1,22 +1,4 @@
 # Wiki - Grew Supportclothes
-## Installation
-1. Buy the resource in my shop
-2. Download the newest version from your [Keymaster](https://keymaster.fivem.net/)
-3. Upload the `database.sql` to your database.<br>
-    3.1 (Optonal) Add the jobs to other scripts, which they allowed to edit/access
-4. Write to your permissons.cfg `grew_supcloth.RANK` (change RANK to your groupname/commandname) to the group who be able to execute the command.
-5. Write in the server.cfg `ensure grew_supportclothes` **but after the Requirements!**
-6. Start / Restart the server and enjoy
-
-
-## Permissions
-Add the following permissions to your `server.cfg` or `permissions.cfg`.<br>
-Admin-Vest Permission: `add_ace group.admin grew_supclothes.admin allow`<br>
-Dev-Vest Permission: `add_ace group.dev grew_supclothes.dev allow`<br>
-Mod-Vest Permission: `add_ace group.mod grew_supclothes.mod allow`<br>
-Sup-Vest Permission: `add_ace group.sup grew_supclothes.sup allow`
-
-
 ## Configuration
 ### Config.Locale
 Change the language of the script.<br>
